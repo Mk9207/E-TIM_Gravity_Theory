@@ -1,4 +1,3 @@
-
 # E-TIM Gravity Theory: A Unified Gravitational Model via Electro-Tensorial Induction
 
 ---
@@ -33,25 +32,12 @@ E-TIM aims to **structurally encompass, reconstruct, and surpass** these models 
 
 ---
 
-## 🧱 Directory Structure (POS_SOURCE removed)
+## 🧱 Directory Structure
 
-E-TIM_Gravity_Theory/  
-├── README.md  
-├── LICENSE  
-├── sections/  
-│   ├── 01_GPS.md  
-│   ├── 02_MOND.md  
-│   ├── 03_Newton.md  
-│   ├── 04_Einstein.md  
-│   └── 05_Quantum.md  
-├── integrations/  
-│   ├── 01_GPS_MOND_Newton.md  
-│   ├── 02_Einstein_Integration.md  
-│   ├── 03_Quantum_Expansion.md  
-│   └── 04_Full_5Theory_Convergence.md  
-└── applications/  (to be developed post-unification)
+E-TIM_Gravity_Theory/ ├── README.md ├── LICENSE ├── sections/ │   ├── 01_GPS.md │   ├── 02_MOND.md │   ├── 03_Newton.md │   ├── 04_Einstein.md │   └── 05_Quantum.md ├── integrations/   ← Reserved for future cross-theory integrations └── applications/   ← To be developed after full theoretical unification
 
-Each `.md` file includes both theory explanation and stepwise unification logic, eliminating any black-box structures.
+Each `.md` file in `sections/` includes both the theoretical explanation and the associated unification process.  
+The `integrations/` directory is reserved for models that unify beyond the current five theories.
 
 ---
 
@@ -69,9 +55,9 @@ Each `.md` file includes both theory explanation and stepwise unification logic,
 
 ## 📌 Roadmap
 
-- ✅ `sections/*.md`: Documentation of theory + unification process
-- ✅ `integrations/*.md`: Logical compression and integration records
-- ⏳ `applications/`: Practical deployment (post full unification)
+- ✅ `sections/*.md`: Documentation of theory + unification process  
+- 🛠 `integrations/`: Reserved for future integrative models (to be structured)  
+- ⏳ `applications/`: Practical deployment (post full unification)  
 - ⏳ Cross-domain integration: EM theory, material responses, artificial gravity, etc.
 
 ---
@@ -93,4 +79,3 @@ This model is grounded in a **Self-Recursive Validation Loop (SRVL)** that ensur
 
 This document finalizes the `README.md` foundation.  
 Further steps include LICENSE completion, and preparation of individual `sections/*.md`.
-
